@@ -23,4 +23,5 @@ dependencies {
     provided fileTree(include: ['*.jar'], dir: 'libs')
     compile 'com.android.support:appcompat-v7:25.3.1'
     compile project(':l2_pay')
+    compile 'com.tencent.mm.opensdk:wechat-sdk-android-with-mta:+'
 }

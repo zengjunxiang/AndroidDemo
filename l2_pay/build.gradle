@@ -25,4 +25,5 @@ dependencies {
     provided fileTree(include: ['*.jar'], dir: 'libs')
     compile files('libs/alipaySdk-20170710.jar')
     provided 'com.android.support:appcompat-v7:25.3.1'
+    compile 'com.tencent.mm.opensdk:wechat-sdk-android-with-mta:+'
 }
