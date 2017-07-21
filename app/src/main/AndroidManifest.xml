@@ -24,8 +24,8 @@
             </intent-filter>
         </activity>
 
-        <activity android:name=".ui.lay2.PayActivity"/>
-
+        <activity android:name=".ui.layer2.PayActivity"/>
+        <activity android:name=".ui.layer1.OkHttpDemoActivity"/>
     </application>
 
 </manifest>

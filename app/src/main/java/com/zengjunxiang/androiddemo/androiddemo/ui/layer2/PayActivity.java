@@ -1,4 +1,4 @@
-package com.zengjunxiang.androiddemo.androiddemo.ui.lay2;
+package com.zengjunxiang.androiddemo.androiddemo.ui.layer2;
 
 import android.app.Activity;
 import android.os.Bundle;
@@ -12,9 +12,7 @@ import com.zengjunxiang.androiddemo.PayResultCallBack;
 import com.zengjunxiang.androiddemo.PayType;
 import com.zengjunxiang.androiddemo.PayUtil;
 import com.zengjunxiang.androiddemo.alipay.AliLocalParamCreator;
-import com.zengjunxiang.androiddemo.alipay.AliPay;
 import com.zengjunxiang.androiddemo.androiddemo.R;
-import com.zengjunxiang.androiddemo.wxapi.WxPay;
 
 /**
  * Created by ZJX on 2017/7/18.
@@ -28,7 +26,7 @@ public class PayActivity extends Activity implements View.OnClickListener,PayRes
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_lay2_pay);
+        setContentView(R.layout.activity_layer2_pay);
 
         AliLocalParamCreator.init("23234","23r234","234r23423423dsfasdf");
         Log.e("PayActivity","支付appid等基础信息完成。。。。");

@@ -10,6 +10,7 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/l2_pay" />
+            <option value="$PROJECT_DIR$/lay1_okhttp3.0" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
