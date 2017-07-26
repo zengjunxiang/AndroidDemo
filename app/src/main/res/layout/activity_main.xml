@@ -32,4 +32,13 @@
         android:layout_below="@id/lay2_btn_pay"
         />
 
+    <Button
+        android:id="@+id/lay1_btn_glidedemo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Glidededemo"
+        android:layout_below="@id/lay1_btn_okhttpdemo"
+
+        />
+
 </RelativeLayout>

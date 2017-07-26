@@ -26,6 +26,7 @@
 
         <activity android:name=".ui.layer2.PayActivity"/>
         <activity android:name=".ui.layer1.OkHttpDemoActivity"/>
+        <activity android:name=".ui.layer1.GlideDemoActivity"/>
     </application>
 
 </manifest>
