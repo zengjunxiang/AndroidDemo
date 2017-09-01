@@ -116,7 +116,7 @@ public class OkHttpDemoActivity  extends Activity implements View.OnClickListene
         Request request=new Request.Builder()
                             .url(POST_URL)
                             .post(requestBody)
-                             .build();
+                            .build();
 
         client.newCall(request).enqueue(new Callback() {
 

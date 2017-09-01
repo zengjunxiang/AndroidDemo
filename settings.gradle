@@ -1,1 +1,1 @@
-include ':app', ':l2_pay', ':lay1_okhttp3.0', ':layer1_glide'
+include ':app', ':l2_pay', ':lay1_okhttp3.0', ':layer1_glide', ':layer1_rxjava', ':layer4_buttom_tab'

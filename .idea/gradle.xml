@@ -12,6 +12,8 @@
             <option value="$PROJECT_DIR$/l2_pay" />
             <option value="$PROJECT_DIR$/lay1_okhttp3.0" />
             <option value="$PROJECT_DIR$/layer1_glide" />
+            <option value="$PROJECT_DIR$/layer1_rxjava" />
+            <option value="$PROJECT_DIR$/layer4_buttom_tab" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

@@ -7,6 +7,8 @@
       <module fileurl="file://$PROJECT_DIR$/l2_pay/l2_pay.iml" filepath="$PROJECT_DIR$/l2_pay/l2_pay.iml" />
       <module fileurl="file://$PROJECT_DIR$/lay1_okhttp3.0/lay1_okhttp3.0.iml" filepath="$PROJECT_DIR$/lay1_okhttp3.0/lay1_okhttp3.0.iml" />
       <module fileurl="file://$PROJECT_DIR$/layer1_glide/layer1_glide.iml" filepath="$PROJECT_DIR$/layer1_glide/layer1_glide.iml" />
+      <module fileurl="file://$PROJECT_DIR$/layer1_rxjava/layer1_rxjava.iml" filepath="$PROJECT_DIR$/layer1_rxjava/layer1_rxjava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/layer4_buttom_tab/layer4_buttom_tab.iml" filepath="$PROJECT_DIR$/layer4_buttom_tab/layer4_buttom_tab.iml" />
     </modules>
   </component>
 </project>
